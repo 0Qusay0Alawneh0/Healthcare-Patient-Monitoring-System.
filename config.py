@@ -1,0 +1,11 @@
+MONGODB_URI = "mongodb://localhost:27017"
+INFLUXDB_URL = "http://localhost:8086"
+INFLUXDB_TOKEN = "your-token"
+INFLUXDB_ORG = "your-org"
+INFLUXDB_BUCKET = "healthcare"
+NEO4J_URI = "bolt://localhost:7687"
+NEO4J_USER = "neo4j"
+NEO4J_PASSWORD = "password"
+CASSANDRA_HOSTS = ["127.0.0.1"]
+REDIS_HOST = "localhost"
+REDIS_PORT = 6379
