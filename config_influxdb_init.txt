@@ -1,0 +1,3 @@
+# Create database/bucket 'healthcare' in InfluxDB web UI or CLI
+# Example InfluxQL (InfluxDB 1.x):
+# CREATE DATABASE healthcare
